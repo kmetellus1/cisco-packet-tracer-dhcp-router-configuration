@@ -77,10 +77,6 @@ The PCs were configured to receive IP addresses automatically using DHCP.
 
 ![IPConfig and Ping Test](screenshots/pc2-ipconfig-ping-test.png)
 
-### LinkedIn Project Post
-
-![LinkedIn Project Post](screenshots/linkedin-project-post.png)
-
 ## Verification Results
 
 The DHCP configuration was successful because the client PCs received IP addresses from the router automatically.
