@@ -63,7 +63,7 @@ The PCs were configured to receive IP addresses automatically using DHCP.
 
 ### Network Topology
 
-![Packet Tracer Network Topology]https://github.com/kmetellus1/cisco-packet-tracer-dhcp-router-configuration/blob/main/network%20connection1%20.png
+https://github.com/kmetellus1/cisco-packet-tracer-dhcp-router-configuration/blob/main/network%20connection1%20.png
 
 ### PC DHCP IP Configuration
 
