@@ -1,3 +1,4 @@
+<img width="905" height="547" alt="IP " src="https://github.com/user-attachments/assets/4dcfa2ad-a092-4e95-8031-7bdde13695b3" />
 # cisco-packet-tracer-dhcp-router-configuration
 Cisco Packet Tracer project demonstrating DHCP router configuration, IP address assignment, and network connectivity testing.
 # Cisco Packet Tracer DHCP Router Configuration Project
