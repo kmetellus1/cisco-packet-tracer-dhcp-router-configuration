@@ -1,5 +1,3 @@
-# cisco-packet-tracer-dhcp-router-configuration
-Cisco Packet Tracer project demonstrating DHCP router configuration, IP address assignment, and network connectivity testing.
 # Cisco Packet Tracer DHCP Router Configuration Project
 
 ## Project Overview
@@ -62,19 +60,21 @@ The PCs were configured to receive IP addresses automatically using DHCP.
 ## Screenshots
 
 ### Network Topology
+<img width="1919" height="1049" alt="network connection1 " src="https://github.com/user-attachments/assets/748cb471-dd5e-4618-b56b-1c19d09d99d0" />
 
-<img width="905" height="547" alt="IP " src="https://github.com/user-attachments/assets/4dcfa2ad-a092-4e95-8031-7bdde13695b3" /> 
-### PC DHCP IP Configuration
 
-![PC DHCP IP Configuration](screenshots/pc0-dhcp-ip-configuration.png)
+### IP Configuration
+<img width="905" height="547" alt="IP " src="https://github.com/user-attachments/assets/7bdbf8f9-6205-4b48-872f-ff2d7eaa4be4" />
 
-### Router DHCP Configuration
 
-![Router DHCP Configuration](screenshots/router-dhcp-configuration.png)
+### Router DHCP Configration 
+<img width="890" height="757" alt="web_browser" src="https://github.com/user-attachments/assets/346f11da-0611-498d-9faf-a0121bf9c72b" />
+
+
 
 ### IPConfig and Ping Test
-
-![IPConfig and Ping Test](screenshots/pc2-ipconfig-ping-test.png)
+<img width="535" height="1048" alt="terminal_view" src="https://github.com/user-attachments/assets/1da9ee1a-2d4d-4c11-9a52-aadf727ee94f" /> 
+ 
 
 ## Verification Results
 
