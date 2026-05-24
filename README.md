@@ -64,8 +64,7 @@ The PCs were configured to receive IP addresses automatically using DHCP.
 
 ### Network Topology
 
-[Click here to view screenshot](image-file-name.png)https://github.com/kmetellus1/cisco-packet-tracer-dhcp-router-configuration/blob/main/network%20connection1%20.png
-
+<img width="905" height="547" alt="IP " src="https://github.com/user-attachments/assets/4dcfa2ad-a092-4e95-8031-7bdde13695b3" /> 
 ### PC DHCP IP Configuration
 
 ![PC DHCP IP Configuration](screenshots/pc0-dhcp-ip-configuration.png)
